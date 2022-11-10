@@ -18,4 +18,6 @@ highlight
 
 <mark>look at me</mark>
 
+<mark>what is this</mark>
 
+- [ ] 是否支持中文输入
