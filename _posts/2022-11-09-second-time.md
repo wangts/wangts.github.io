@@ -14,8 +14,8 @@ highlight
 
 * [ ] 是否支持<mark>中文输入</mark>
 
-==Text==
+<mark>Text</mark>
 
-==look at me==
+<mark>look at me</mark>
 
 
